@@ -1,4 +1,4 @@
-# Go-CI
+# Go-CI (Incompleted now)
 ## Make, go and bash
 Built by rk0_d, 2020
 
