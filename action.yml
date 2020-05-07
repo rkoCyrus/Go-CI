@@ -1,0 +1,5 @@
+name: 'Go-CI'
+description: 'Combined C/C++ make and Go environment for integration'
+runs:
+    using: 'docker'
+    image: 'Dockerfile'
