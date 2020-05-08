@@ -11,4 +11,4 @@ LABEL "com.github.actions.color"="blue"
 
 ENV GO111MODULE on
 
-ENTRYPOINT ["bash"]
+ENTRYPOINT ["/bin/bash"]
