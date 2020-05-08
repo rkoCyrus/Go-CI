@@ -1,7 +1,8 @@
 name: 'Go-CI'
 description: 'Combined C/C++ make and Go environment for integration'
-icon: 'arrow-up'
-color: 'blue'
+branding:
+    icon: 'arrow-up'
+    color: 'blue'
 runs:
     using: 'docker'
     image: 'Dockerfile'
