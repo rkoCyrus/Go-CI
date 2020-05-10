@@ -54,3 +54,10 @@ build : $(GOFILE)
 clean :
 	rm -f $(GOFILE)
 ```
+
+# Versioning
+For example: <br>
+`1.0` for gomake (Image of Go-CI) is represented go 1.14 (actually is 1.14.2).
+When major update released (not included beta), the integer will be increased (`2.0` for go 1.15)<br><br>
+
+First 2 digit of Go-CI's version is the same of gomake, but third and after digit number represented as hotfix minor update. I recommend use as latest as possible.
