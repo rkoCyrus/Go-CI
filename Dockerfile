@@ -1,4 +1,4 @@
-FROM rk0d/gomake:1.3
+FROM rk0d/gomake:1.4
 
 LABEL repository="https://github.com/rkoCyrus/Go-CI"
 LABEL homepage="https://rkocyrus.github.io"
